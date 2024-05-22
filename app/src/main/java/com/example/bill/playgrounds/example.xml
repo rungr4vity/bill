@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <title>Kotlin Programming</title>
+        <author>John Doe</author>
+    </book>
+    <book>
+        <title>Advanced Kotlin</title>
+        <author>Jane Smith</author>
+    </book>
+</library>
